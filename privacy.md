@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hermes Personal: Privacy Policy
+title: "Hermes Personal: Privacy Policy"
 ---
 # Privacy Policy
 
